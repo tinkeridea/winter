@@ -1,0 +1,40 @@
+---
+name: "@tinkeridea"
+project: "Quadex"
+---
+
+# Project Name
+Quadex
+
+## Summary
+
+I am excited to announce that I am working on building a cost-effective and high-quality drone for a variety of fields. This drone will have a price range of between 
+123 dollars to 246 dollars, making it accessible to a wider range of customers.
+I am particularly excited about this project because I believe that there is a high demand for cost-effective and high-quality drones that can be used for a variety of
+fields, including agriculture, search and rescue operations, and surveying, among others. I am confident that this drone will fill that gap and make a meaningful impact in these fields by providing efficient and effective solutions at an affordable price point.
+In summary, I am building a cost-effective and high-quality drone and additional features, and the ability to be used in a variety of fields with a price range of 
+between 123 dollars to 246 dollars. I am excited to build it because I believe it will fill a gap in the market and provide an efficient and effective solution at an 
+affordable price point.
+
+
+
+## Plan
+
+What steps are you going to take to build it? What tools are you going to use? What will you do first, second, third, etc.?
+1. Designing the frame of the drone using CAD software and testing it using a 3D printer.
+2. Designing multiple frames for different fields of drone usage.
+3. Building all the parts of the drone by myself, including a low-budget power distribution board to understand the drone better and reduce dependence on external imports.
+4. Adding safety features to the drone, including the ability to fly in rainy seasons by building a custom frame.
+5. Conducting a survey to gather feedback from experienced drone users to improve the design of the drone.
+6. Working on the flight controller aspect of the drone with a small team of experienced professionals.
+7. Testing new features such as hand gesture control on the drone.
+8. Developing a remote app for different devices.
+9. Building different types of drones catering to various needs such as commercial, government, personal, kids, and photography.
+
+## Budget
+
+| Product         | Supplier/Link                         | Cost   |
+| --------------- | ------------------------------------- | ------ |
+| 3D Printer   | https://amzn.eu/d/gELDnVm | $221.44  |
+| Total           |                                       | $221.44 |
+Remaining money will be needed to make some additional components.
